@@ -1,0 +1,9 @@
+body {
+    background-image: url(img/spacebackground.gif);
+    background-repeat: repeat;
+}
+
+.bg-space{
+    background-image: url(img/spacebackground.gif);
+    background-repeat: repeat;
+}
