@@ -27,6 +27,28 @@ h4 {
     font-family: 'Share', cursive !important;
 }
 
+.toplink {
+    text-decoration: none;
+    color: #8f2ead;
+}
+
+.bg-lite {
+    background-color: #e8efef !important;
+}
+
+.bg-dork {
+   
+    background-color: #100728 !important; 
+}
+
+.bg-tan {
+    background-color: #fcf6f2 !important;
+}
+
+.btn-light {
+background-color: white !important;
+}
+
 .bg-space{
     background-image: url(img/spacebackground.gif);
     background-repeat: repeat;
